@@ -1,0 +1,12 @@
+#include<iostream>
+using namepsace std;
+
+int main(){
+
+    int age;
+
+    cout<<"Enter you age:";
+    cin>>age;
+
+    return 0;
+}
